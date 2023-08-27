@@ -1,0 +1,12 @@
+name: llm-rec
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - ipykernel=6.25.0
+  - numpy=1.25.2
+  - pandas=2.0.3
+  - python=3.11.4
+  - pytorch=2.0.1
+  - pytorch-cuda=11.7
